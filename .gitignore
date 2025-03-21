@@ -1,0 +1,7 @@
+.myenv
+.vscode
+__pycache__
+data.bd
+.__pycache__
+*.pyc
+.DS_Store
