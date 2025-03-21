@@ -46,6 +46,7 @@ from flask_migrate import Migrate
 from db import db
 import models           #includes all the  file present in model folder;since __init__file meh 2 file import kar diya already
 
+
 from blocklist import BLOCKLIST 
 from resources.item import blp as ItemBlueprint
 from resources.tag import blp as TagBlueprint
